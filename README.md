@@ -6,7 +6,7 @@ This is a solution to the [Clipboard landing page challenge on Frontend Mentor](
 
 - Solution URL: [Solution]()
 
-- Live Site URL: [Site]()
+- Live Site URL: [Site](https://clipboardlandingpageselvex.netlify.app)
 
 ### Built with
 
