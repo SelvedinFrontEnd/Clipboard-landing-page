@@ -280,7 +280,7 @@ body {
 
 @media screen and (min-width:900px){
   .icons {
-    margin-left: 55rem;
+    margin-left: auto;
   }
 }
 
